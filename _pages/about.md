@@ -12,4 +12,4 @@ I'm a senior year undergraduate student from the Chinese Univeristy of Hong Kong
 
 
 
-You can find my CV here: [Kaiying Han's Curriculum Vitae](../asserts/CV.pdf).
+You can find my CV here: [Kaiying Han's Curriculum Vitae](../assets/CV.pdf).
