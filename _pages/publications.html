@@ -11,26 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Publication</h2> 
+<b>Liu, X.</b>, Briol, F-X. (2024). 
+<text class="pub-title">On the Robustness of Kernel Goodness-of-Fit Tests</text>. ICML 2023.
+<br>
+<button type="button" class="btn btn-primary btn-sm" onclick=" window.open('https://arxiv.org/abs/2408.05854','_blank')">Paper</button>
+<br>
+<br>
 
 
 
