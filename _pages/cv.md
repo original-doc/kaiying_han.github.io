@@ -12,5 +12,5 @@ redirect_from:
 
 
 
-You can find my CV here [Kaiying Han's CV](../assets/CV.pdf).
+You can find my CV here [Kaiying Han's CV](https://github.com/original-doc/kaiying_han.github.io/blob/master/assets/CV.pdf).
 
