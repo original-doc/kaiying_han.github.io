@@ -21,7 +21,7 @@ repository               : "original-doc/kaiying_han.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "screen_shot.png"
+  avatar           : "selfie.png"
   name             : "Kaiying Han"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate in Computer Engineering"
