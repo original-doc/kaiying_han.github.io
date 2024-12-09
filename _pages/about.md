@@ -14,7 +14,7 @@ I have been fortunate to work under the guidance of Prof. Fangxin Wang at CUHK S
 
 I am currently seeking a Ph.D. position for the Fall 2025 term. If you are interested, please feel free to contact me.
 
-//You can find my CV here: [Kaiying Han's Curriculum Vitae](https://github.com/original-doc/kaiying_han.github.io/blob/master/assets/CV.pdf).
+You can find my CV here: [Kaiying Han's Curriculum Vitae](../assets/CV.pdf).
 
 <br>
 <br>
